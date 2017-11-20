@@ -3,7 +3,7 @@
 		"apps": [],
 		"details": [{
 				"appID": "6379BPE45W.com.nhncorp.jr",
-				"paths": ["/", "/index.html?"]
+				"paths": ["/*", "/index.html?"]
 			},
 			{
 				"appID": "Z29J673EM9.com.nhncorp.jrnaverent",
