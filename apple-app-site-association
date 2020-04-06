@@ -1,0 +1,31 @@
+{
+  "applinks": {
+    "apps": [
+      
+    ],
+    "details": {
+      "6379BPE45W.com.nhncorp.NaverSearch": {
+        "paths": [
+          "/",
+          "/index.html",
+          "*"
+        ]
+      },
+      "54A4882579.com.nhncorp.NaverSearchApp": {
+        "paths": [
+          "/",
+          "/index.html",
+          "*",
+          "/?"
+        ]
+      },
+      "Z29J673EM9.com.nhncorp.NaverSearchEnt": {
+        "paths": [
+          "/",
+          "/index.html",
+          "*"
+        ]
+      }
+    }
+  }
+}
