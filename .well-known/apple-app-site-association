@@ -1,0 +1,17 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "6379BPE45W.com.nhncorp.NaverSearch", "54A4882579.com.nhncorp.NaverSearchApp", "Z29J673EM9.com.nhncorp.NaverSearchEnt" ],
+             "components": [
+               {
+                  "#": "enable_universal_links"
+               },
+               {
+                  "?": { "universal_links": "enable" }
+               }
+             ]
+           }
+       ]
+   }
+}
